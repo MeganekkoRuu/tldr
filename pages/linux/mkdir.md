@@ -4,4 +4,4 @@
 
 -  An example of the mkdir command:
 
-`mkdir testdirectory`
+`mkdir`
